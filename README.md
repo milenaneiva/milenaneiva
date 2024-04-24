@@ -32,14 +32,26 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/milenaneiva/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:millenaneiva@hotmail.com)
 
-
 <details>
   <summary> 📘 
     <h2>
-      <b>MEUS PROJETOS CRIADOS NOS CURSOS DA DIO<b>  
+      <b>Meus projetos de código aberto<b>
     <h2>
   </summary>
+      
+⚠️ <h1><b>Em breve<b><h1> 
 
+</details>
+
+
+
+  
+<details>
+  <summary> 📘 
+    <h2>
+      <b>Projetos criados no curso da DIO<b>  
+    <h2>
+  </summary>
 
 </details>
 
