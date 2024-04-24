@@ -55,7 +55,7 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 
 | Título  | Link |
 | ------------- | ------------- |
-| Santander - Backend com Java  | (https://github.com/milenaneiva/dio-estudos-java-backend)  |
+| Santander - Backend com Java  | https://github.com/milenaneiva/dio-estudos-java-backend |
 | Content Cell  | Content Cell  |
 
 
