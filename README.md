@@ -49,7 +49,7 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 <details>
   <summary> 📘 
     <h2>
-      <b>Projetos criados no curso da DIO<b>  
+      <b>Projetos criados no curso da DIO (Digital One Innovation)<b>  
     <h2>
   </summary>
 
