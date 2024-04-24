@@ -34,10 +34,8 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 
 
 <details>
-  <summary>Clique para mostrar/ocultar conteúdo</summary>
+  <summary> 📘 "MEUS PROJETOS CRIADOS NOS CURSOS DA DIO" </summary>
   
-  Conteúdo que será mostrado/oculto.
-
 </details>
 
 
