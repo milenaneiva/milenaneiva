@@ -1,6 +1,9 @@
 ## Oi! Eu sou a Milena Neiva
 
-
+##
+Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional UNINTER
+No momento, sou Desenvolvedora Front-end, mas sigo estudando para me tornar Full Stack, que é o meu sonho!
+Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 
 ##
 
