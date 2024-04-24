@@ -39,7 +39,7 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
     <h2>
   </summary>
       
-⚠️ <h1><b>Em breve<b><h1> 
+⚠️ <b>Em breve<b>
 
 </details>
 
