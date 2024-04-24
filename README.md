@@ -34,7 +34,7 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 
 
 <details>
-  <summary> 📘 "MEUS PROJETOS CRIADOS NOS CURSOS DA DIO" </summary>
+  <summary> 📘 <b>MEUS PROJETOS CRIADOS NOS CURSOS DA DIO<b> </summary>
   
 </details>
 
