@@ -36,7 +36,8 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 <details>
   <summary> 📘 
     <h2>
-    <b>MEUS PROJETOS CRIADOS NOS CURSOS DA DIO<b> 
+    
+      <span style="color: grey;">MEUS PROJETOS CRIADOS NOS CURSOS DA DIO</span>
     <h2>
   </summary>
 
