@@ -34,7 +34,7 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 <details>
   <summary> 📘 
     <h2>
-      <b>Meus projetos de código aberto<b>
+      <b>Meus projetos pessoais<b>
     <h2>
   </summary>
       
@@ -54,7 +54,6 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
 
 | Curso  | Link |
 | ------------- | ------------- |
-| Santander - Backend com Java  | https://github.com/milenaneiva/dio-estudos-java-backend |
 | Programação do Zero  | https://github.com/milenaneiva/dio-estudos-programacao-do-zero |
 
 
