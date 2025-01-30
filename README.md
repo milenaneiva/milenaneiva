@@ -38,7 +38,10 @@ Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
     <h2>
   </summary>
       
-⚠️ <b>Em breve<b>
+ | Projeto | Descrição |
+|---------|----------|
+|[📌 Calculadora de IMC](https://github.com/seuusuario/calculadora-imc) | 🏋️‍♂️ Uma calculadora responsiva para calcular o Índice de Massa Corporal (IMC). |
+
 
 </details>
 
