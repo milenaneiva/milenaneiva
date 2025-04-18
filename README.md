@@ -2,11 +2,7 @@
 
 ##
 
-Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Internacional UNINTER
-
-No momento, sou Desenvolvedora Front-end, mas sigo estudando para me tornar Full Stack, que é o meu sonho!
-
-Apaixonada por tecnologia! Busco ampliar meus conhecimento a cada dia
+Sou desenvolvedora Front-End, em transição para o Desenvolvimento Back-End, com foco nos estudos de Python e Java. Meu objetivo é me tornar desenvolvedora Full Stack, unindo minhas habilidades em Front-End (HTML, CSS, JavaScript e frameworks) com o Back-End, para criar soluções completas e eficientes. Busco constantemente aprimorar meus conhecimentos para me tornar uma profissional versátil e preparada para os desafios do desenvolvimento de software.
 
 ##
 
