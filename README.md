@@ -1,4 +1,6 @@
-<h2 align="center">Olá 👋! Me chamo Milena Neiva e sou  Desenvolvedora Backend Java!</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=Ol%C3%A1%20%F0%9F%91%8B!%20Me%20chamo%20Milena%20Neiva%20e%20sou%20Desenvolvedora%20Backend%20Java!&fontSize=20&fontColor=#c05d52&fontAlign=60&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
 
 ###
 
@@ -40,9 +42,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/milenaneiva/milenaneiva/output/snake.svg" alt="Snake animation"/>
 
 ###
