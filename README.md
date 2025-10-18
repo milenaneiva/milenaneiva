@@ -43,8 +43,6 @@
 
 ###
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/milenaneiva/milenaneiva/output/snake.svg" alt="Snake animation"/>
 
-<img src="https://raw.githubusercontent.com/milenaneiva/milenaneiva/output/snake.svg" alt="Snake animation" />
-
-####
+###
