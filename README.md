@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/memetemplate/513977390/hinda"  />
+<img align="right" height="150" src=""  />
 
 ###
 
