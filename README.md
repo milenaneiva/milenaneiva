@@ -1,63 +1,47 @@
-## Oi! Eu sou a Milena Neiva
+<h2 align="center">Olá! Me chamo Milena Neiva e sou Desenvolvedora BackEnd Java!</h2>
 
-##
+###
 
-Sou desenvolvedora Front-End, em transição para o Desenvolvimento Back-End, com foco nos estudos de Python e Java. Meu objetivo é me tornar desenvolvedora Full Stack, unindo minhas habilidades em Front-End (HTML, CSS, JavaScript e frameworks) com o Back-End, para criar soluções completas e eficientes. Busco constantemente aprimorar meus conhecimentos para me tornar uma profissional versátil e preparada para os desafios do desenvolvimento de software.
+<img align="right" height="150" src="https://imgflip.com/memetemplate/513977390/hinda"  />
 
-##
+###
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=milenaneiva&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="30" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo"  />
+</div>
 
+###
 
-               
-## 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="left">
+  <a href="https://www.linkedin.com/in/milena-neiva-14a205196/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="milena.neiva10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="millenaneiva@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-
-##
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-  
-## 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milena-costa-14a205196/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:millenaneiva@hotmail.com)
-
-<details>
-  <summary> 📘 
-    <h2>
-      <b>Meus projetos pessoais<b>
-    <h2>
-  </summary>
-      
- | Projeto | Descrição |
-|---------|----------|
-|[📌 Calculadora de IMC](https://github.com/milenaneiva/calculadoraIMC) | 🏋️‍♂️ Uma calculadora responsiva para calcular o Índice de Massa Corporal (IMC). |
-
-
-</details>
-
-
-
-  
-<details>
-  <summary> 📘 
-    <h2>
-      <b>Projetos criados no curso da DIO (Digital One Innovation)<b>  
-    <h2>
-  </summary>
-
-| Curso  | Link |
-| ------------- | ------------- |
-| Programação do Zero  | https://github.com/milenaneiva/dio-estudos-programacao-do-zero |
-
-
-</details>
-
-
-
-
+###
